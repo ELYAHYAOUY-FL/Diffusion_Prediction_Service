@@ -2,7 +2,7 @@
 
 This project demonstrates an end-to-end pipeline for analyzing network flow data, building a graph-based model, and simulating threat diffusion using machine learning techniques. It combines data preprocessing, feature engineering, graph construction, and diffusion modeling to predict and visualize the impact of network threats.
 
-![Graph Illustration](images/image.png)
+![Graph Illustration](image/graph.png)
 
 ## Table of Contents
 
